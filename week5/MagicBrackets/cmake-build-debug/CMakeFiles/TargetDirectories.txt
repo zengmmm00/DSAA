@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week5/MagicBrackets/cmake-build-debug/CMakeFiles/MagicBrackets.dir
+D:/Users/DELL/CLionProjects/OJ/week5/MagicBrackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week5/MagicBrackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

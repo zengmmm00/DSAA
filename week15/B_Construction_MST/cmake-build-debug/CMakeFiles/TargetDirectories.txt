@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week15/B_Construction_MST/cmake-build-debug/CMakeFiles/B_Construction_MST.dir
+D:/Users/DELL/CLionProjects/OJ/week15/B_Construction_MST/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week15/B_Construction_MST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

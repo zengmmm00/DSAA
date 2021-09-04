@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week12/F_Palace/cmake-build-debug/CMakeFiles/F_Palace.dir
+D:/Users/DELL/CLionProjects/OJ/week12/F_Palace/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week12/F_Palace/cmake-build-debug/CMakeFiles/rebuild_cache.dir

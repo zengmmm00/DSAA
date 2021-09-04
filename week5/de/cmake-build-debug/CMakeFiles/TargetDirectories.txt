@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week5/de/cmake-build-debug/CMakeFiles/de.dir
+D:/Users/DELL/CLionProjects/OJ/week5/de/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week5/de/cmake-build-debug/CMakeFiles/rebuild_cache.dir

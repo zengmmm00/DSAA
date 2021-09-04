@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week12/I_The Elves/cmake-build-debug/CMakeFiles/I_The_Elves.dir
+D:/Users/DELL/CLionProjects/OJ/week12/I_The Elves/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week12/I_The Elves/cmake-build-debug/CMakeFiles/rebuild_cache.dir

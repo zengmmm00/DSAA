@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week2/SuffixZero/cmake-build-debug/CMakeFiles/SuffixZero.dir
+D:/Users/DELL/CLionProjects/OJ/week2/SuffixZero/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week2/SuffixZero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

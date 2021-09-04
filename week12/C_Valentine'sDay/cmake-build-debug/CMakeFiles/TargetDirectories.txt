@@ -1,0 +1,3 @@
+D:/Users/DELL/CLionProjects/OJ/week12/C_Valentine'sDay/cmake-build-debug/CMakeFiles/C_Valentine_sDay.dir
+D:/Users/DELL/CLionProjects/OJ/week12/C_Valentine'sDay/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/DELL/CLionProjects/OJ/week12/C_Valentine'sDay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

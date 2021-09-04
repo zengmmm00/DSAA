@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e393bf-582e-4aeb-b48f-75e46f9b206f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A_Kingdom/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-92" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/B_TheSwordofDamocles/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-969" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C_Valentine'sDay/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-704" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D_DefensiveTower/data.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D_DefensiveTower/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-663" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/E_Soldiers/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-500" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/F_Palace/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="A_Kingdom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="B_TheSwordofDamocles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="C_Valentine'sDay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="D_DefensiveTower" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="E_Soldiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="F_Palace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week12" type="462c0819:PsiDirectoryNode" />
+              <item name="I_The Elves" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e393bf-582e-4aeb-b48f-75e46f9b206f" name="Default Changelist" comment="" />
+      <created>1575609564519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575609564519</updated>
+      <workItem from="1575609565721" duration="136000" />
+      <workItem from="1575609951291" duration="5000" />
+      <workItem from="1587290789393" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="214000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/A_Kingdom/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B_TheSwordofDamocles/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C_Valentine'sDay/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D_DefensiveTower/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D_DefensiveTower/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E_Soldiers/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/F_Palace/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+  </component>
+</project>
